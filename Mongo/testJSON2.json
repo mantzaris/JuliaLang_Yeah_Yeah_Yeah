@@ -1,0 +1,8 @@
+ {"to":"Alex", "from":"Zach", 
+  "weight": 2.1} 
+
+{"to":"Zach", 
+ "from":"Bob", "weight": 1.21, "extra":"rapid"} 
+{"to":"Eric", "from":"Cat", "weight": 0.5, "type":"letter"}
+
+{"to":"Alex", "from":"unknown", "weight": 12.3} 
